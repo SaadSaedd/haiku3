@@ -9,9 +9,9 @@ function Haiku1(){
 }
 function Haiku2(){
     console.log("haiku by:","abdul");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("I don't understand.You love it when I do that--Wait, no. That's Stephen.");
+    console.log("Frantically hidingPorno and Mapplethorpe prints--Mom is on her way. ");
+    console.log("Remember when ISaid I disliked oral sex?I meant just with you.");
 }
 function Haiku3(){
     console.log("haiku by:","damain");
