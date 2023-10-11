@@ -15,9 +15,9 @@ function Haiku2(){
 }
 function Haiku3(){
     console.log("haiku by:","damain");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("In het morgenrood op de tip van het graanblad de rijp van voorjaar.REGEL1");
+    console.log("Een bliksemschicht flitst en een purperreiger schreeuwt in de duisternis.");
+    console.log("Twee blauwe streepjes op een klein plastic staafje. Hij gelooft het niet.");
 } 
 
 
